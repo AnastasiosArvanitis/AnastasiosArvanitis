@@ -1,6 +1,6 @@
 ## Hi there I am [Anastasios](https://www.anastasios-arvanitis.info) 👋
 ### Studying web and mobile development at ENI IT school, Nantes FR
-## I am also dad of two daughters and pationed cook 👨‍🍳
+#### I am also dad of two daughters and pationed cook 👨‍🍳
 
 
 
