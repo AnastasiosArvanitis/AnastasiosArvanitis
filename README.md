@@ -1,5 +1,5 @@
 ## Hi there I am [Anastasios](https://www.anastasios-arvanitis.info) 👋
-### Studying web and mobile development at [ENI IT school](https://www.eni-ecole.fr/), Nantes France
+### Studying web and mobile development at [ENI IT school](https://www.eni-ecole.fr/), Nantes France, will be looking for a stage at april and may 
 #### I am also dad of two daughters and pationed cook 👨‍🍳
 
 
