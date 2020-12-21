@@ -12,11 +12,11 @@
 
 ⚡ Favorite IDE IntelliJ Ultimate and of course VS code 😁
 
+💻 Last project that I 've made is a java ee, jdbc, maven powered [blog](https://github.com/AnastasiosArvanitis/blog)
+
 📫 You can reach me reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](contact@anastasios-arvanitis.info)
 
-💻 Last project that I 've made is a java ee, jdbc, maven powered [blog]() 
-
-
+ 
 <!--
 **AnastasiosArvanitis/AnastasiosArvanitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
