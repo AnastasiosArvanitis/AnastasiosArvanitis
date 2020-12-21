@@ -17,7 +17,7 @@
 
 💻 Last project that I 've made is a java ee, jdbc, maven powered [blog](https://github.com/AnastasiosArvanitis/blog)
 
-📫 You can reach me reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](contact@anastasios-arvanitis.info)
+📫 You can reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](https://anastasios-arvanitis.info/Contact)
 
  
 <!--
