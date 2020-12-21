@@ -1,8 +1,11 @@
 ## Hi there I am Anastasios, and this is my [web site](https://www.anastasios-arvanitis.info) 👋
-### Studying web and mobile development at [ENI IT school](https://www.eni-ecole.fr/), Nantes France 
+### Studying web and mobile development (bac+2) at [ENI IT school](https://www.eni-ecole.fr/), Nantes France 
 #### Will be looking for a stage between april 6 and may 25
 #### Will be available for a contract on june 2021 
 ##### I am also dad of two daughters and pationed cook 👨‍🍳
+
+
+---
 
 
 
