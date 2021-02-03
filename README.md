@@ -11,17 +11,17 @@
 
 🔭 I'm studying [web and mobile developement](https://www.eni-ecole.fr/formation/developpeur-euse-web-et-web-mobile) at eni-ecole informatique  
 
-🌱 I’m currently learning java enterprise edition and I'm loving it💜
+🌱 After working three months on Java I’m currently learning Angular and I'm loving it💜
 
 ⚡ Favorite IDE IntelliJ Ultimate and WebStorm (and of course VS code) 😁
 
-💻 Last projects that I 've made are: 
+💻 The latest projects that I 've made are: 
 
 ✔ a java ee, jdbc, maven powered [blog](https://github.com/AnastasiosArvanitis/blog)
      
 ✔ one more java ee jdbc application of auctions [eniEncheres](https://github.com/AnastasiosArvanitis/eniEncheres)
      
-✔ working on angular with an [weather](https://github.com/AnastasiosArvanitis/angular-weather) and [todo & find film](https://github.com/AnastasiosArvanitis/angular-weather) app
+✔ working on angular with a [weather](https://github.com/AnastasiosArvanitis/angular-weather) and [todo & find film](https://github.com/AnastasiosArvanitis/angular-weather) app
 
 📫 You can reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](https://anastasios-arvanitis.info/Contact)
 
