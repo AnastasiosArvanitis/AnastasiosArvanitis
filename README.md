@@ -15,7 +15,10 @@
 
 ⚡ Favorite IDE IntelliJ Ultimate and of course VS code 😁
 
-💻 Last project that I 've made is a java ee, jdbc, maven powered [blog](https://github.com/AnastasiosArvanitis/blog)
+💻 Last projects that I 've made are: 
+    - a java ee, jdbc, maven powered [blog](https://github.com/AnastasiosArvanitis/blog)
+    - one more java ee jdbc application of auctions [eniEncheres](https://github.com/AnastasiosArvanitis/eniEncheres)
+    - working on angular with an [weather](https://github.com/AnastasiosArvanitis/angular-weather) and [todo & find film](https://github.com/AnastasiosArvanitis/angular-weather) app
 
 📫 You can reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](https://anastasios-arvanitis.info/Contact)
 
