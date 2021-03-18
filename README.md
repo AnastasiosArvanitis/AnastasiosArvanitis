@@ -23,7 +23,7 @@
      
 ✔ was working on angular with a [weather](https://github.com/AnastasiosArvanitis/angular-weather) and [todo & find film](https://github.com/AnastasiosArvanitis/angular-weather) app
 
-✔ currently working on react native with a [weather](https://github.com/AnastasiosArvanitis/react_native_blog) and [yelp & find restaurant](https://github.com/AnastasiosArvanitis/yelp_food) app
+✔ currently working on react native with a [blog](https://github.com/AnastasiosArvanitis/react_native_blog) and a [yelp find restaurant](https://github.com/AnastasiosArvanitis/yelp_food) app
 
 📫 You can reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](https://anastasios-arvanitis.info/Contact)
 
