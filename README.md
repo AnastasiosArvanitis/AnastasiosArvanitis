@@ -1,6 +1,5 @@
 ## Hi there I am Anastasios, and this is my [web site](https://www.anastasios-arvanitis.info) 👋
 ### Studying web and mobile development (bac+2) at [ENI IT school](https://www.eni-ecole.fr/), Nantes France 
-#### Will be looking for a stage between april 6 and may 25
 #### Will be available for a contract on june 2021 
 ##### I am also dad of two daughters and pationed cook 👨‍🍳
 
@@ -9,7 +8,7 @@
 
 
 
-🔭 I'm studying [web and mobile developement](https://www.eni-ecole.fr/formation/developpeur-euse-web-et-web-mobile) at eni-ecole informatique  
+🔭 I have finished studying [web and mobile developement](https://www.eni-ecole.fr/formation/developpeur-euse-web-et-web-mobile) at eni-ecole informatique  
 
 🌱 After working three months on Java I’m currently learning Angular and I'm loving it💜
 
@@ -23,7 +22,9 @@
      
 ✔ was working on angular with a [weather](https://github.com/AnastasiosArvanitis/angular-weather) and [todo & find film](https://github.com/AnastasiosArvanitis/angular-weather) app
 
-✔ currently working on react native with a [blog](https://github.com/AnastasiosArvanitis/react_native_blog) and a [yelp find restaurant](https://github.com/AnastasiosArvanitis/yelp_food) app
+✔ was working on react native with a [blog](https://github.com/AnastasiosArvanitis/react_native_blog) and a [yelp find restaurant](https://github.com/AnastasiosArvanitis/yelp_food) app
+
+✔ I have worked a lot on React native with Redux - Saga and Nest.js on my intership (stage) but the repos are private 😄
 
 📫 You can reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](https://anastasios-arvanitis.info/Contact)
 
