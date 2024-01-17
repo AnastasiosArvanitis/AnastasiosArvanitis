@@ -1,30 +1,22 @@
-## Hi there I am Anastasios, and this is my [web site](https://www.anastasios-arvanitis.info) 👋
-### Studying web and mobile development (bac+2) at [ENI IT school](https://www.eni-ecole.fr/), Nantes France 
-#### Will be available for a contract on june 2021 
-##### I am also dad of two daughters and pationed cook 👨‍🍳
-
+## Hi there I am Anastasios, and this is my [personal repositiry](https://www.anastasios-arvanitis.info) 👋
 
 ---
+#### I have been a web developer between 2000 and 2005, I have done many other interesting things later on, only to come back to programming. Since 2021 I am working on the Salesforce ecosystem.
 
+#### I love developing in Apex and LWC 🤓 and I am a Trailhead & VS Code geek! 
 
+##### ⚡I am an expert on challenges like:
+- Rest API
+- Experience Cloud
+- DevOps
+- Git and version control
+- GitHub administration
+- Azure DevOps
+- Postman automations
 
-🔭 I have finished studying [web and mobile developement](https://www.eni-ecole.fr/formation/developpeur-euse-web-et-web-mobile) at eni-ecole informatique  
+In my life I have tried many and different stuff and I have worked with a lot of people. Adaptation has become my second nature, working hard and always learning and improving have become my most important values.
 
-🌱 After working three months on Java I’m currently learning Angular and I'm loving it💜
-
-⚡ Favorite IDE IntelliJ Ultimate and WebStorm (and of course VS code) 😁
-
-💻 The latest projects that I 've made are: 
-
-✔ a java ee, jdbc, maven powered [blog](https://github.com/AnastasiosArvanitis/blog)
-     
-✔ one more java ee jdbc application of auctions [eniEncheres](https://github.com/AnastasiosArvanitis/eniEncheres)
-     
-✔ was working on angular with a [weather](https://github.com/AnastasiosArvanitis/angular-weather) and [todo & find film](https://github.com/AnastasiosArvanitis/angular-weather) app
-
-✔ was working on react native with a [blog](https://github.com/AnastasiosArvanitis/react_native_blog) and a [yelp find restaurant](https://github.com/AnastasiosArvanitis/yelp_food) app
-
-✔ I have worked a lot on React native with Redux - Saga and Nest.js on my intership (stage) but the repos are private 😄
+Thank you for reading 😄
 
 📫 You can reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](https://anastasios-arvanitis.info/Contact)
 
