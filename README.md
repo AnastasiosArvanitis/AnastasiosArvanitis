@@ -18,7 +18,7 @@ In my life I have tried many and different stuff and I have worked with a lot of
 
 Thank you for reading 😄
 
-📫 You can reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](https://anastasios-arvanitis.info/Contact)
+📫 You can reach me on [linkedin](https://www.linkedin.com/in/anastasiosarvanitis/) or [mail me](mailto: contact@anastasios-arvanitis.info)
 
  
 <!--
