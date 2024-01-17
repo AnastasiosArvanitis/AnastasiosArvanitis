@@ -1,4 +1,4 @@
-## Hi there I am Anastasios, and this is my [personal repositiry](https://www.anastasios-arvanitis.info) 👋
+## Hi there I am Anastasios, and this is my personal repositiry 👋
 
 ---
 #### I have been a web developer between 2000 and 2005, I have done many other interesting things later on, only to come back to programming. Since 2021 I am working on the Salesforce ecosystem.
