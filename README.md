@@ -1,16 +1,11 @@
-# Anastasios Arvanitis | Salesforce Architect & CI/CD Expert 🤖
+# Anastasios Arvanitis | Expert CRM & DevOps Architect 🤖
+#### 🎯Specialized in automation, intelligent delivery, and modern engineering practices.
 
-I am a Salesforce Development Lifecycle Architect dedicated to transforming chaotic, manual deployments into **precise, professional DevOps pipelines.**
+- Architecture and delivery of CRM solutions (Salesforce)  
+- Advanced automation with GitHub Actions, Jira, Confluence, MCP  
+- Design of reliable, observable, and reproducible CI/CD pipelines  
+- Integration of agents and autonomous workflows to reduce operational noise  
+- Continuous exploration of engineering approaches to improve how teams design, build, and deliver CRM platforms
 
-My focus is maximizing developer velocity and securing the development lifecycle from sandbox to production.
-
-## 🎯 Expertise & High-Value Challenges:
-
-* **CI/CD Design & Automation:** Implementing Git-based Continuous Integration/Delivery (Azure DevOps, GitHub Actions).
-* **Generative AI Architecture (Agentforce):** Designing secure, governed data access and orchestration layers for on-platform AI Assistants.
-* **Lifecycle Mastery:** Git, Version Control, Branching Strategies, and GitHub Administration.
-* **Enterprise Integration:** Apex, LWC, Rest API, and robust security architecture.
-
-Adaptation and continuous improvement define my approach. If you have a complex deployment challenge, let's connect.
 
 📫 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/anastasiosarvanitis/) (or) [Email me](mailto:contact@anastasios-arvanitis.info)
